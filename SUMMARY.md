@@ -5,8 +5,8 @@
   * [前言&WEB标准](/html/前言&WEB标准.md)
   * [认识HTML](/html/认识HTML.md)
   * [HTML常用标签](/htm/HTML常用标签.md)
-  * [04-表格 table(会使用)](/html/04-表格 table(会使用).md)
-  * [05-列表和表单](/html/05-列表和表单.md)
+  * [表格table(会使用)](/html/表格table(会使用).md)
+  * [列表和表单](/html/05列表和表单.md)
 
 * CSS
   * [01-CSS初识](/css/01-CSS初识.md)
