@@ -2,13 +2,12 @@
 
 * [Introduction](README.md)
 * HTML
-  * [01-前言&WEB标准](/html/01-前言&WEB标准.md)
-  * [认识WEB](/html/认识WEB.md)
-  * [02-认识HTML](/html/02-认识HTML.md)
-  * [03-HTML常用标签](/htm/03-HTML常用标签.md)
+  * [前言&WEB标准](/html/前言&WEB标准.md)
+  * [认识HTML](/html/认识HTML.md)
+  * [HTML常用标签](/htm/HTML常用标签.md)
   * [04-表格 table(会使用)](/html/04-表格 table(会使用).md)
-* [05-列表和表单](/html/05-列表和表单.md)
-  
+  * [05-列表和表单](/html/05-列表和表单.md)
+
 * CSS
   * [01-CSS初识](/css/01-CSS初识.md)
   * [02-CSS基础选择器](/css/02-CSS基础选择器.md)
