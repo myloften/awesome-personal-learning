@@ -9,10 +9,10 @@
   * [列表和表单](/html/05列表和表单.md)
 
 * CSS
-  * [01-CSS初识](/css/01-CSS初识.md)
-  * [02-CSS基础选择器](/css/02-CSS基础选择器.md)
-  * [03-CSS文字文本样式](/css/03-CSS文字文本样式.md)
-  * [CSS第二天笔记](/css/CSS第二天笔记.md)
+  * [CSS初识](/css/CSS初识.md)
+  * [CSS基础选择器](/css/CSS基础选择器.md)
+  * [CSS文字文本样式](/css/CSS文字文本样式.md)
+  * [CSS复合选择器及三大特性](/css/CSS复合选择器及三大特性.md)
   * [CSS第三天-盒子模型](/css/CSS第三天-盒子模型.md)
   * [4天浮动](/css/4天浮动.md)
   * [CSS第五天-学成在线](/css/CSS第五天-学成在线.md)
