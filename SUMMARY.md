@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * HTML
-  * [前言&WEB标准](/html/前言&WEB标准.md)
+  * [认识WEB](/html/认识Web.md)
   * [认识HTML](/html/认识HTML.md)
   * [HTML常用标签](/htm/HTML常用标签.md)
   * [表格table(会使用)](/html/表格table(会使用).md)
