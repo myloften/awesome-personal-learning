@@ -4,7 +4,7 @@
 * HTML
   * [认识WEB](/html/认识Web.md)
   * [HTML使用](/html/HTML使用.md)
-  * [HTML常用标签](/htm/HTML常用标签.md)
+  * [HTML之表格&表单&列表](/html/HTML之表格&表单&列表.md)
   * [表格table(会使用)](/html/表格table(会使用).md)
   * [列表和表单](/html/05列表和表单.md)
 
