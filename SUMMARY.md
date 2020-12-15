@@ -4,10 +4,8 @@
 * HTML
   * [认识WEB](/html/认识Web.md)
   * [HTML使用](/html/HTML使用.md)
-  * [HTML之表格&表单&列表](/html/HTML之表格&表单&列表.md)
-  * [表格table(会使用)](/html/表格table(会使用).md)
-  * [列表和表单](/html/05列表和表单.md)
-
+  * [HTML之表格&列表&表单](/html/HTML之表格&列表&表单.md)
+  
 * CSS
   * [CSS初识](/css/CSS初识.md)
   * [CSS基础选择器](/css/CSS基础选择器.md)
