@@ -28,7 +28,7 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 简单示例
 
-```
+```html
 <table>
 	<caption>标题</caption>
 	<tr>
@@ -60,27 +60,27 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 ![表格示例](imgs/表格示例1.png)
 
-```
+```html
 <table width="300" height="200" border="1" cellpadding="10" cellspacing="0" align="center">
-		<tr>
+    <tr>
         <th>姓名</th>
         <th>性别</th>
         <th>年龄</th>
     </tr>
     <tr>
-    		<td>刘德华</td>
-    		<td>男</td>
-    		<td>55</td>
+        <td>刘德华</td>
+        <td>男</td>
+        <td>55</td>
     </tr>
     <tr>
-    		<td>郭富城</td>
-    		<td>男</td>
-    		<td>52</td>
+        <td>郭富城</td>
+        <td>男</td>
+        <td>52</td>
     </tr>
     <tr>
-    		<td>张学友</td>
-    		<td>男</td>
-    		<td>58</td>
+        <td>张学友</td>
+        <td>男</td>
+        <td>58</td>
     </tr>
 </table>
 ```
@@ -101,11 +101,11 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 ```html
 <table width="300" border="1" align="center" cellspacing="0" cellpadding="0">
-		<caption>个人信息表</caption>
-		<tr>
-				<th>姓名</th>
-				<th>性别</th>
-				<th>电话</th>
+    <caption>个人信息表</caption>
+    <tr>
+        <th>姓名</th>
+        <th>性别</th>
+        <th>电话</th>
     </tr>
     <tr>
         <td>小娟</td>
@@ -133,9 +133,9 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 ![表格示例3-1](imgs/表格示例3-1.png)
 
-```
+```html
 <table width="500" border="1" align="center" cellspacing="0" cellpadding="0">
-		<caption>个人简介</caption>
+    <caption>个人简介</caption>
     <tr>
         <td>姓名：小林</td>
         <td>性别：男</td>
@@ -159,7 +159,7 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 ![表格示例3-2](imgs/表格示例3-2.png)
 
-```
+```html
 <table width="500" border="1" align="center" cellspacing="0" cellpadding="0">
     <caption>个人简介</caption>
     <tr>
@@ -174,8 +174,8 @@ MDN: https://developer.mozilla.org/zh-CN/
         <td>婚姻：未婚</td>
     </tr>
     <tr>
-      <td>个人简介</td>
-      <td colspan="3">简介内容</td>
+        <td>个人简介</td>
+        <td colspan="3">简介内容</td>
     </tr>
 </table>
 ```
@@ -188,9 +188,9 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 **注意：**
 
-1. <thead></thead>：用于定义表格的头部。用来放标题之类的东西。<thead> 内部必须拥有 <tr> 标签！
-2. <tbody></tbody>：用于定义表格的主体。放数据本体 。
-3. <tfoot></tfoot>放表格的脚注之类。
+1. thead：用于定义表格的头部。用来放标题之类的东西。thead 内部必须拥有 tr 标签！
+2. tbody：用于定义表格的主体。放数据本体 。
+3. tfoot：放表格的脚注之类。
 4. 以上标签都是放到table标签中。
 
 # 3. 列表
@@ -208,12 +208,12 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 无序列表的各个列表项之间没有顺序级别之分，是并列的。其基本语法格式如下：
 
-```
+```html
 <ul>
-  <li>列表项1</li>
-  <li>列表项2</li>
-  <li>列表项3</li>
-  ......
+    <li>列表项1</li>
+    <li>列表项2</li>
+    <li>列表项3</li>
+    ......
 </ul>
 ```
 
@@ -225,12 +225,12 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 有序列表即为有排列顺序的列表，其各个列表项按照一定的顺序排列定义，有序列表的基本语法格式如下：
 
-```
+```html
 <ol>
-  <li>列表项1</li>
-  <li>列表项2</li>
-  <li>列表项3</li>
-  ......
+    <li>列表项1</li>
+    <li>列表项2</li>
+    <li>列表项3</li>
+    ......
 </ol>
 ```
 
@@ -238,16 +238,16 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 定义列表常用于对术语或名词进行解释和描述，定义列表的列表项前没有任何项目符号。其基本语法如下：
 
-```
+```html
 <dl>
-  <dt>名词1</dt>
-  <dd>名词1解释1</dd>
-  <dd>名词1解释2</dd>
-  ...
-  <dt>名词2</dt>
-  <dd>名词2解释1</dd>
-  <dd>名词2解释2</dd>
-  ...
+    <dt>名词1</dt>
+    <dd>名词1解释1</dd>
+    <dd>名词1解释2</dd>
+    ...
+    <dt>名词2</dt>
+    <dd>名词2解释1</dd>
+    <dd>名词2解释2</dd>
+    ...
 </dl>
 ```
 
@@ -267,7 +267,7 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 ## 4.1 input控件
 
-```
+```html
 <input type="属性值" value="你好">
 ```
 
@@ -299,13 +299,13 @@ MDN: https://developer.mozilla.org/zh-CN/
 
   1. 第一种用法就是用label直接包括input表单。
 
-  ```
+  ```html
   <label> 用户名： <input type="radio" name="usename" value="请输入用户名">   </label>
   ```
 
   2. 第二种用法 for 属性规定 label 与哪个表单元素绑定。
 
-  ```
+  ```html
   <label for="man">男</label>
   <input type="radio" name="sex" id="man">
   <label for="woman">女</label>
@@ -316,7 +316,7 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 语法：
 
-```
+```html
 <textarea>文本内容</textarea>
 ```
 
@@ -337,12 +337,12 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 语法
 
-```
+```html
 <select>
-  <option>选项1</option>
-  <option>选项2</option>
-  <option>选项3</option>
-  ...
+    <option>选项1</option>
+    <option>选项2</option>
+    <option>选项3</option>
+    ...
 </select>
 ```
 
@@ -364,7 +364,7 @@ MDN: https://developer.mozilla.org/zh-CN/
 
 * 语法: 
 
-```
+```html
 <form action="url地址" method="提交方式" name="表单名称">
   各种表单控件
 </form>
