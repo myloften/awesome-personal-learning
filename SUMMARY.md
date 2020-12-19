@@ -7,16 +7,14 @@
   * [HTML之表格&列表&表单](/html/HTML之表格&列表&表单.md)
   
 * CSS
-  * [CSS初识](/css/CSS初识.md)
-  * [CSS基础选择器](/css/CSS基础选择器.md)
-  * [CSS文字文本样式](/css/CSS文字文本样式.md)
-  * [CSS复合选择器及三大特性](/css/CSS复合选择器及三大特性.md)
+  * [CSS使用一](/css/CSS使用一.md)
+  * [CSS使用二](/css/CSS使用二.md)
   * [CSS盒子模型](/css/CSS盒子模型.md)
   * [CSS浮动](/css/CSS浮动.md)
   * [CSS第五天-学成在线](/css/CSS第五天-学成在线.md)
   * [CSS第六天-定位](/css/CSS第六天-定位.md)
   * [CSS第七天-高级技巧](/css/CSS第七天-高级技巧.md)
-
+  
 * 品优购电商项目
   * [品优购代码规范](/品优购电商项目/品优购代码规范.md)
   * [品优购项目(一)](/品优购电商项目/品优购项目(一).md)
