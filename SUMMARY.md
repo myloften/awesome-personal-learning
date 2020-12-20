@@ -5,36 +5,32 @@
   * [认识WEB](/html/认识Web.md)
   * [HTML使用](/html/HTML使用.md)
   * [HTML之表格&列表&表单](/html/HTML之表格&列表&表单.md)
-  
 * CSS
-  * [CSS使用一](/css/CSS使用一.md)
-  * [CSS使用二](/css/CSS使用二.md)
+  * [CSS选择器&三大特性](/css/CSS选择器&三大特性.md)
+  * [CSS常用属性](/css/CSS常用属性.md)
+  * [CSS盒子模型&浮动](/css/CSS盒子模型&浮动.md)
   * [CSS盒子模型](/css/CSS盒子模型.md)
   * [CSS浮动](/css/CSS浮动.md)
   * [CSS第五天-学成在线](/css/CSS第五天-学成在线.md)
   * [CSS第六天-定位](/css/CSS第六天-定位.md)
   * [CSS第七天-高级技巧](/css/CSS第七天-高级技巧.md)
-  
 * 品优购电商项目
   * [品优购代码规范](/品优购电商项目/品优购代码规范.md)
   * [品优购项目(一)](/品优购电商项目/品优购项目(一).md)
   * [品优购项目(二)](/品优购电商项目/品优购项目(二).md)
   * [品优购项目(三)](/品优购电商项目/品优购项目(三).md)
   * [品优购项目(四)](/品优购电商项目/品优购项目(四).md)
-
 * HTML5与CSS3
   * [软件安装](/html5css3/软件安装.md)
   * [HTML5CSS3_day01](/html5css3/HTML5CSS3_day01.md)
   * [HTML5CSS3_day02](/html5css3/HTML5CSS3_day02.md)
   * [HTML5CSS3_day03](/html5css3/HTML5CSS3_day03.md)
-
 * 移动Web网页
 
   * [移动web开发_流式布局](/移动Web网页开发/移动web开发_流式布局.md)
   * [移动web开发_flex布局](/移动Web网页开发/移动web开发_flex布局.md)
   * [移动web开发_rem布局](/移动Web网页开发/移动web开发_rem布局.md)
   * [移动web开发之响应式布局](/移动Web网页开发/移动web开发之响应式布局.md)
-
 * JavaScript
 
   * 01-JavaScript基础语法
